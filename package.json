@@ -7,7 +7,7 @@
     "Denise Fernandez <denise@antena.co>",
     "Gonzalo Bellver <gonzalo@antena.co>"
   ],
-  "version": "0.1.13",
+  "version": "0.1.14",
   "scripts": {
     "build": "node browserify.js",
     "test": "npm run build && istanbul cover _mocha",
