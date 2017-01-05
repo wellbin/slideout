@@ -1,13 +1,11 @@
 {
-  "name": "slideout-custom",
+  "name": "antena-slideout",
   "repository": "git@github.com/Antena/slideout.git",
   "description": "A touch slideout navigation menu for your mobile web apps.",
   "author": "Guille Paz <guille87paz@gmail.com>",
   "maintainers": [
     "Denise Fernandez <denise@antena.co>",
-    "Gonzalo Bellver <gonzalo@antena.co>",
-    "Belén Curcio <belen@antena.co>",
-    "Guillermo Mesyngier <guillermo@antena.co>"
+    "Gonzalo Bellver <gonzalo@antena.co>"
   ],
   "version": "0.1.13",
   "scripts": {
