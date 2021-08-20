@@ -1,6 +1,6 @@
 {
-  "name": "antena-slideout",
-  "repository": "git@github.com/Antena/slideout.git",
+  "name": "@wellbin/antena-slideout",
+  "repository": "https://github.com/wellbin/slideout.git",
   "description": "A touch slideout navigation menu for your mobile web apps.",
   "author": "Guille Paz <guille87paz@gmail.com>",
   "maintainers": [
